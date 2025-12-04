@@ -1,4 +1,5 @@
 Tiếng Việt
+
 Bản quyền © 2025 MINVST. Mọi quyền được bảo lưu.
 
 Việc truy cập, sử dụng và tham gia giao dịch trên nền tảng MINVST đồng nghĩa với việc bạn chấp nhận toàn bộ điều khoản trong tài liệu này. 
@@ -15,6 +16,7 @@ Chúng tôi luôn nỗ lực bảo vệ dữ liệu cá nhân người dùng tro
 MINVST có quyền sửa đổi hoặc cập nhật LICENSE này bất kỳ lúc nào mà không cần thông báo trước. Người dùng tiếp tục sử dụng nền tảng được hiểu là đã đồng ý với các phiên bản sửa đổi mới nhất.
 
 English
+
 Copyright © 2025 MINVST. All Rights Reserved.
 
 By accessing and using the MINVST platform, you acknowledge and agree to the terms set forth herein. 
