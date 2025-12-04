@@ -1,48 +1,183 @@
-# LICENSE – MINVST
-Version 1.0 – 05/12/2025  
+# MINVST LICENSE AGREEMENT  
+Version 1.0 — Effective Date: December 05, 2025  
 © 2025 MINVST. All Rights Reserved.
 
 ---
 
-## Tiếng Việt
+## I. TIẾNG VIỆT
 
-Bằng việc truy cập và sử dụng nền tảng MINVST (“Dịch vụ”), bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý tuân thủ các điều khoản được nêu trong LICENSE này.
+### 1. Giới thiệu
+Tài liệu này (“LICENSE”) là thỏa thuận pháp lý ràng buộc giữa bạn (“Người dùng”) và MINVST liên quan đến việc sử dụng nền tảng MINVST (“Dịch vụ”). Bằng việc truy cập hoặc sử dụng Dịch vụ, bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý tuân thủ toàn bộ điều khoản trong LICENSE này.
 
-MINVST là nền tảng thương mại kỹ thuật số cho phép người dùng mua và bán hàng hóa, dịch vụ số bao gồm nhưng không giới hạn: mã nguồn phần mềm, tài nguyên máy chủ, API, tài khoản và các sản phẩm kỹ thuật số hợp pháp khác.
-
-Toàn bộ nội dung, cấu trúc hệ thống, mã nguồn, thiết kế giao diện, dữ liệu và tất cả tài sản trí tuệ khác trên nền tảng thuộc về MINVST hoặc các bên được cấp quyền hợp pháp. Người dùng không được phép sao chép, phân phối, chuyển nhượng, bán lại, chỉnh sửa, dịch ngược, phân tích ngược hoặc sử dụng trái phép bất kỳ nội dung nào nếu chưa có sự chấp thuận bằng văn bản từ MINVST.
-
-Người dùng hoàn toàn chịu trách nhiệm đối với nội dung và sản phẩm mà họ đưa lên nền tảng. Các hành vi bị cấm bao gồm nhưng không giới hạn: vi phạm pháp luật, vi phạm bản quyền, gian lận, hoặc gây ảnh hưởng tiêu cực đến hoạt động của hệ thống hoặc cộng đồng người dùng. MINVST có quyền tạm ngừng dịch vụ, khóa tài khoản hoặc xóa nội dung vi phạm theo đánh giá riêng.
-
-Việc mua sản phẩm từ MINVST không đồng nghĩa với việc chuyển giao quyền sở hữu trí tuệ. Người mua chỉ được cấp quyền sử dụng theo phạm vi được quy định bởi chính sách của nhà cung cấp sản phẩm.
-
-MINVST không chịu trách nhiệm đối với thiệt hại tài chính phát sinh từ giao dịch giữa người dùng với nhau, hoặc từ sự cố kỹ thuật bao gồm mất dữ liệu, gián đoạn dịch vụ hoặc lỗi hệ thống ngoài khả năng kiểm soát hợp lý.
-
-MINVST cam kết bảo vệ thông tin cá nhân của người dùng theo pháp luật hiện hành. Người dùng không được thu thập, buôn bán hoặc sử dụng trái phép dữ liệu của người dùng khác.
-
-MINVST có quyền thay đổi LICENSE này bất cứ lúc nào mà không cần thông báo trước. Việc tiếp tục sử dụng dịch vụ sau khi LICENSE được cập nhật đồng nghĩa với việc bạn chấp nhận các điều khoản sửa đổi.
+MINVST là nền tảng cung cấp môi trường giao dịch các sản phẩm kỹ thuật số bao gồm mã nguồn, phần mềm, API, dịch vụ máy chủ, tài khoản và các nội dung, dịch vụ số hợp pháp khác (“Sản phẩm”).
 
 ---
 
-## English
+### 2. Quyền Sở Hữu và Tài Sản Trí Tuệ
+Tất cả các quyền sở hữu trí tuệ, bao gồm mã nguồn hệ thống, giao diện người dùng, tài liệu, cơ sở dữ liệu, nội dung hiển thị trên Dịch vụ và các tài sản liên quan khác đều thuộc quyền sở hữu của MINVST hoặc bên cấp phép hợp pháp. Người dùng không được:
 
-By accessing and using the MINVST platform (“Service”), you acknowledge that you have read, understood, and agreed to comply with all terms stated in this LICENSE.
+Sao chép dưới mọi hình thức  
+Phân phối, chuyển nhượng hoặc bán lại  
+Chỉnh sửa, dịch ngược, phân tích ngược hoặc giải mã hệ thống  
+Khai thác thương mại khi chưa được cấp phép  
+Vi phạm bất kỳ quyền sở hữu trí tuệ nào
 
-MINVST is a digital commerce platform that enables users to buy and sell goods and digital services including, but not limited to, software source code, server resources, APIs, digital accounts, and other lawful digital products.
-
-All content, platform infrastructure, source code, UI/UX design, data, and other intellectual property are owned by MINVST or duly licensed from respective providers. Users are strictly prohibited from copying, distributing, sublicensing, modifying, reverse-engineering, decompiling, or otherwise exploiting any part of the system without written authorization from MINVST.
-
-Users are solely responsible for the content and digital products they publish or distribute on the platform. Illegal, infringing, fraudulent, or harmful activities are strictly prohibited. MINVST retains the right to restrict access, remove content, or suspend accounts at its sole discretion.
-
-Purchasing a product through MINVST does not grant ownership of associated intellectual property. The buyer is provided a usage right only within the scope defined by the product's specific licensing terms.
-
-MINVST shall not be held liable for financial damages arising from user-to-user transactions or from technical issues beyond reasonable control, including system failures, data corruption, or service interruptions.
-
-MINVST is committed to protecting user personal data in compliance with applicable laws. Users must not harvest, trade, or misuse personal data belonging to others on the platform.
-
-MINVST reserves the right to modify or update this LICENSE at any time without prior notice. Continued use of the platform shall constitute acceptance of the latest revised terms.
+Mọi hành vi xâm phạm sẽ bị xử lý theo pháp luật Việt Nam và tiêu chuẩn quốc tế về bảo hộ sở hữu trí tuệ.
 
 ---
 
+### 3. Quyền và Nghĩa vụ của Người Dùng
+Người dùng cam kết:
+- Chỉ đăng tải và giao dịch sản phẩm hợp pháp, thuộc quyền sở hữu hoặc đã được cấp phép
+- Chịu trách nhiệm hoàn toàn về nội dung và giao dịch của chính mình
+- Bảo mật thông tin tài khoản và chịu trách nhiệm về mọi hoạt động liên quan
+
+Nghiêm cấm:
+- Bán hoặc phân phối nội dung có bản quyền trái phép
+- Gian lận thương mại, lừa đảo, chiếm đoạt tài sản
+- Lợi dụng nền tảng gây thiệt hại cho người khác hoặc hệ thống
+- Tung tin sai lệch, spam, tấn công kỹ thuật
+
+---
+
+### 4. Trách nhiệm và Miễn trừ Trách nhiệm
+MINVST **không** chịu trách nhiệm cho:
+- Rủi ro tài chính phát sinh từ giao dịch giữa người dùng với nhau
+- Vi phạm pháp luật do người dùng thực hiện
+- Tổn thất từ lỗi kỹ thuật, sự cố gián đoạn dịch vụ, mất dữ liệu
+- Thiệt hại ngoài khả năng kiểm soát của MINVST
+
+MINVST có quyền:
+- Kiểm duyệt và gỡ bỏ nội dung vi phạm
+- Khóa tài khoản có dấu hiệu lừa đảo, gian lận hoặc gây hại cho nền tảng
+- Thu thập log hệ thống nhằm hỗ trợ điều tra hành vi phạm pháp
+
+---
+
+### 5. Cấp phép Sử dụng Sản phẩm
+Khi mua sản phẩm trên MINVST:
+- Người mua được cấp quyền sử dụng theo phạm vi do **nhà cung cấp sản phẩm quy định**
+- Không mặc định sở hữu bản quyền sản phẩm
+- Không được phân phối lại nếu không có sự cho phép rõ ràng
+
+Mỗi sản phẩm có thể đính kèm điều khoản riêng và bắt buộc người mua phải tuân thủ.
+
+---
+
+### 6. Chính sách Dữ liệu và Bảo mật
+MINVST cam kết bảo mật thông tin cá nhân người dùng tuân thủ pháp luật hiện hành.  
+Người dùng **không được**:
+- Thu thập trái phép dữ liệu của người dùng khác
+- Sử dụng dữ liệu vào mục đích thương mại khi chưa có sự đồng ý
+
+MINVST có quyền:
+- Lưu trữ, xử lý dữ liệu phục vụ quản lý nền tảng
+- Cung cấp dữ liệu theo yêu cầu của cơ quan có thẩm quyền
+
+---
+
+### 7. Phí dịch vụ và giao dịch
+MINVST có thể thu phí dịch vụ theo từng loại sản phẩm hoặc tính năng.  
+Các khoản phí có thể thay đổi không cần thông báo trước.  
+Giao dịch đã hoàn tất có thể **không được hoàn tiền**, trừ trường hợp do lỗi nền tảng hoặc theo quy định riêng từng sản phẩm.
+
+---
+
+### 8. Luật điều chỉnh và Giải quyết Tranh chấp
+LICENSE này được điều chỉnh bởi pháp luật nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.  
+Tranh chấp sẽ được ưu tiên giải quyết bằng thương lượng; nếu không thành, sẽ xử lý bởi Tòa án có thẩm quyền tại Việt Nam.
+
+---
+
+### 9. Hiệu lực và Thay đổi Điều khoản
+MINVST có quyền cập nhật LICENSE bất kỳ lúc nào mà không cần thông báo trước.  
+Việc tiếp tục sử dụng Dịch vụ sau khi cập nhật đồng nghĩa bạn chấp nhận các điều khoản mới.
+
+---
+
+## II. ENGLISH
+
+### 1. Introduction
+This document (“LICENSE”) is a legally binding agreement between you (“User”) and MINVST concerning the use of the MINVST platform (“Service”). By accessing or using the Service, you acknowledge and accept these terms in full.
+
+MINVST provides a digital marketplace enabling users to buy and sell lawful digital products including software source code, server services, APIs, digital accounts, and other digital assets (“Products”).
+
+---
+
+### 2. Ownership and Intellectual Property Rights
+All intellectual property associated with the platform, including source code, UI/UX design, architecture, documentation, databases, and displayed content, is owned by MINVST or properly licensed from third parties. You must not:
+
+Copy or reproduce any system components  
+Distribute, sublicense, resell, or transfer  
+Modify or create derivative works  
+Reverse-engineer, decompile, or attempt to extract source code  
+Exploit content without authorization
+
+Any violation may lead to legal enforcement under Vietnamese and international IP law.
+
+---
+
+### 3. User Rights and Responsibilities
+Users must:
+- Ensure all submitted content is legal and authorized for distribution
+- Maintain full accountability for their transactions and data
+- Protect account credentials and device access
+
+Prohibited activities include:
+- Selling stolen or copyrighted content without permission
+- Fraud, deception, or financial misconduct
+- Harming or attempting to harm the platform or community
+- Disseminating malicious, false, or harmful information
+
+---
+
+### 4. Liability Disclaimer
+MINVST **shall not be liable** for:
+- Financial losses resulting from peer-to-peer transactions
+- Illegal actions performed by Users
+- System interruption, data loss, cyberattacks, or other force majeure risks
+- Damages outside reasonable operational control
+
+MINVST reserves full authority to:
+- Restrict access to illegal or harmful content
+- Suspend or terminate accounts violating policies
+- Provide activity logs to lawful authorities when required
+
+---
+
+### 5. Product Licensing
+Purchasing a product on MINVST **does not** grant ownership of any associated intellectual property.  
+Buyers receive only the usage license defined by each product’s licensing terms.  
+Redistribution is prohibited unless explicitly permitted.
+
+---
+
+### 6. Data Protection and Privacy
+MINVST adheres to applicable privacy laws when collecting and storing User data.  
+Users must not harvest or profit from other Users’ data without consent.  
+MINVST may process data for operational, security, and compliance purposes.
+
+---
+
+### 7. Fees and Transactions
+The Service may charge various transaction or platform fees.  
+Fees may be adjusted at any time without prior notice.  
+Completed transactions may be non-refundable.
+
+---
+
+### 8. Governing Law and Dispute Resolution
+This LICENSE shall be governed by the laws of the Socialist Republic of Vietnam.  
+Disputes shall be settled through negotiation; if unsuccessful, they will be resolved by a competent Vietnamese court.
+
+---
+
+### 9. Amendments
+MINVST may modify or replace any part of this LICENSE at any time.  
+Continued use of the Service constitutes acceptance of the revised terms.
+
+---
+
+### Contact Information
 For inquiries related to this LICENSE, please contact:  
-support@minvst (điền tên miền chính thức khi có).
+Email: support@minvst (replace with official domain)
