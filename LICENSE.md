@@ -180,4 +180,4 @@ Continued use of the Service constitutes acceptance of the revised terms.
 
 ### Contact Information
 For inquiries related to this LICENSE, please contact:  
-Email: support@minvst (replace with official domain)
+Email: hunghunghungle@gmail.com
